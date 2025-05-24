@@ -1,8 +1,5 @@
 # Modeling Song Popularity: Audio Features & Streaming Metadata Analysis
 
-**Short Description:**  
-This project investigates how audio features and streaming metadata influence song popularity. It applies machine learning methods to predict popularity scores based on Spotify data, using classification and regression models with advanced feature selection and preprocessing techniques.
-
 ---
 
 ## Abstract
