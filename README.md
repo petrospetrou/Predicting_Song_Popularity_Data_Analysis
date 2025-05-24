@@ -4,7 +4,7 @@
 
 ## Abstract
 
-In the modern music industry, streaming platforms are central to determining a song’s success. This project analyzes how characteristics such as danceability, energy, and listener statistics impact popularity. Using a dataset of over 92,000 tracks enriched with Last.fm streaming metadata, we build predictive models to forecast song popularity and compare performance across classification and regression techniques.
+In the modern music industry, streaming platforms are central to determining a song’s success. This project analyzes how characteristics such as danceability, energy, and listener statistics impact popularity. Using a dataset of over 92,000 tracks enriched with Last.fm streaming metadata, I built predictive models to forecast song popularity and compare performance across classification and regression techniques.
 
 ---
 
@@ -107,11 +107,9 @@ The best results were achieved by combining selected features from all three met
 
 ```
 .
-├── dataset_updated.csv                    # Processed dataset
 ├── ecs784_coursework1_code.ipynb         # Main notebook with full pipeline
 ├── ECS784_Coursework_1_Report.pdf        # Final academic report
 ├── ECS784_Coursework_1_Jupyter.pdf       # PDF export of annotated notebook
-├── Screenshot.png                        # Sample visualization
 └── README.md                             # Project overview (this file)
 ```
 
@@ -122,15 +120,6 @@ The best results were achieved by combining selected features from all three met
 **Custom Academic License**
 
 This project was created as part of a Master's degree in Computer Science at the University of Essex. It is subject to academic integrity policies and must not be reused or modified for commercial purposes without explicit permission from the author. For research and educational use only.
-
----
-
-## Author
-
-**Petros Petrou**  
-MSc Computer Science  
-University of Essex  
-Student ID: 240910783
 
 ---
 
