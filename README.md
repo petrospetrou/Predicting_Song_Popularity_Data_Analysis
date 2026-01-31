@@ -119,7 +119,7 @@ The best results were achieved by combining selected features from all three met
 
 **Custom Academic License**
 
-This project was created as part of a Master's degree in Computer Science at the University of Essex. It is subject to academic integrity policies and must not be reused or modified for commercial purposes without explicit permission from the author. For research and educational use only.
+This project was created as part of a Master's degree in Computer Science. It is subject to academic integrity policies and must not be reused or modified for commercial purposes without explicit permission from the author. For research and educational use only.
 
 ---
 
